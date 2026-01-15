@@ -21,3 +21,7 @@ Files Included
 
 ## Result
 All SQL queries executed successfully and data displayed correctly.
+
+
+<img width="1366" height="768" alt="Task1 png" src="https://github.com/user-attachments/assets/2715d884-6e89-44ea-96f9-337a381657c5" />
+
